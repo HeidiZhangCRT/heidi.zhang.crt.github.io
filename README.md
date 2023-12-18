@@ -79,7 +79,7 @@
 [ACCT302 - Survey of Federal Income Taxation](https://www.boisestate.edu/registrar-catalog/#/courses/Hyb3DyIUqU?bcCurrent=ACCT302)
 
 
-## Busienss Related
+## Business Related
 
 [BUS450 - Business Policies](https://www.boisestate.edu/registrar-catalog/#/courses/HkgisJULcI?bcCurrent=BUS450)
 
