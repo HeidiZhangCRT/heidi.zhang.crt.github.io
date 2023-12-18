@@ -2,7 +2,7 @@
 
 ## Computer Science
 
-[CS425 - Computer Networks](https://www.boisestate.edu/registrar-catalog/#/courses/S1i_f8I98?bcCurrent=CS425)
+[CS425 - Computer Networks](https://www.boisestate.edu/registrar-catalog/#/courses/S1i_f8I98?bcCurrent=CS425) (3) A
 
 [CS333 - Network Security and Defense](https://www.boisestate.edu/registrar-catalog/#/courses/SJ77QIUcI?bcCurrent=CS333)
 
