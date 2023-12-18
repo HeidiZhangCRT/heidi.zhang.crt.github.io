@@ -1,5 +1,6 @@
 
-# Degrees (Majors, Minors) and Certificates to be completed by Spring 2024.
+# Degrees (Majors, Minors) and Certificates
+### (To be completed by Spring 2024)
 
 [Cybersecurity Management Graduate Certficate](https://www.boisestate.edu/cobe-itscm/graduate-certificate-in-cybersecurity-management/)
 
