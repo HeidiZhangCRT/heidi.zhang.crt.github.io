@@ -126,7 +126,7 @@ BBA Accountancy
 
 [FINAN303 - Principles of Finance](https://www.boisestate.edu/registrar-catalog/#/courses/SkeQayIU9L?bcCurrent=FINAN303)
 
-[ECON317 - International Economics](https://www.boisestate.edu/registrar-catalog/#/courses/B1-lnJLI5I?&bcCurrent=ECON317) {register Sprint 2024}
+[ECON317 - International Economics](https://www.boisestate.edu/registrar-catalog/#/courses/B1-lnJLI5I?&bcCurrent=ECON317) {registered Sprint 2024}
 
 [ECON202 - Principles of Microeconomics](https://www.boisestate.edu/registrar-catalog/#/courses/H1gh1L8qU?&bcCurrent=ECON202)
 
