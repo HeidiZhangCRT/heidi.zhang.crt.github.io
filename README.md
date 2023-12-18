@@ -4,6 +4,10 @@
 
 [CS425 - Computer Networks](https://www.boisestate.edu/registrar-catalog/#/courses/S1i_f8I98?bcCurrent=CS425)
 
+[CS333 - Network Security and Defense](https://www.boisestate.edu/registrar-catalog/#/courses/SJ77QIUcI?bcCurrent=CS333)
+
+[CS331 - Computer Security and Information Assurance](https://www.boisestate.edu/registrar-catalog/#/courses/rym7mLIcI?bc=true&bcCurrent=CS331)
+
 [CS321 - Data Structures](https://www.boisestate.edu/registrar-catalog/#/courses/SJ0xQ8I98?bcCurrent=CS321)
 
 [CS253 - Software Development in C](https://www.boisestate.edu/registrar-catalog/#/courses/r1NfG8IcU?bcCurrent=CS253)
