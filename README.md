@@ -10,7 +10,7 @@
 
 [CS221 - Computer Science II](https://www.boisestate.edu/registrar-catalog/#/courses/SygWSzII98?bc=true&bcCurrent=CS221)
 
-[]()
+[CS208 - Introduction to Full Stack Web Development](https://www.boisestate.edu/registrar-catalog/#/courses/Hk9gqpkej?expanded=Computer%20Science%20(CS)&bc=true&bcCurrent=CS208%20)
 
 []()
 
