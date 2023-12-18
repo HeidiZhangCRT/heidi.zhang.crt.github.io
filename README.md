@@ -12,6 +12,8 @@
 
 [CS208 - Introduction to Full Stack Web Development](https://www.boisestate.edu/registrar-catalog/#/courses/Hk9gqpkej?expanded=Computer%20Science%20(CS)&bc=true&bcCurrent=CS208%20)
 
+[CS111 - Introduction to Programming](https://www.boisestate.edu/registrar-catalog/#/courses/SJHvXLL9I?bcCurrent=CS111)
+
 []()
 
 ## Mathematics/Statistics
