@@ -14,7 +14,15 @@
 
 [CS111 - Introduction to Programming](https://www.boisestate.edu/registrar-catalog/#/courses/SJHvXLL9I?bcCurrent=CS111)
 
-[]()
+
+
+[CS408 - Full Stack Web Development](https://www.boisestate.edu/registrar-catalog/#/courses/B1pZ7LL9I?bcCurrent=CS408)
+
+[CS452 - Operating Systems](https://www.boisestate.edu/registrar-catalog/#/courses/r1GvJLI58?bcCurrent=CS452)
+
+[CS455 - Distributed Systems](https://www.boisestate.edu/registrar-catalog/#/courses/HyWBM8IcL?&bcCurrent=CS455)
+
+
 
 ## Mathematics/Statistics
 
