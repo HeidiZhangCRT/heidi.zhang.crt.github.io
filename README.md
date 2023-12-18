@@ -38,6 +38,10 @@
 
 [MATH149 - Precalculus](https://www.boisestate.edu/registrar-catalog/#/courses/HyIR7L8c8?bcCurrent=MATH149)
 
+[BUSSTAT208 - Business Analytics](https://www.boisestate.edu/registrar-catalog/#/courses/BylBiyLUqU?bcCurrent=BUSSTAT208)
+
+[BUSSTAT207 - Introduction to Business Analytics](https://www.boisestate.edu/registrar-catalog/#/courses/ByZBjyLUc8?bcCurrent=BUSSTAT207)
+
 
 ## Information Technology
 
