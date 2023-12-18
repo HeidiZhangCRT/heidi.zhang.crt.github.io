@@ -1,2 +1,1 @@
-# heidi.zhang.crt.github.io
-Heidi
+# Classes taken
