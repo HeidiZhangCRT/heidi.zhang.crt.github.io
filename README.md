@@ -8,7 +8,7 @@
 
 [CS253 - Software Development in C](https://www.boisestate.edu/registrar-catalog/#/courses/r1NfG8IcU?&bc=true&bcCurrent=CS253)
 
-[]()
+[CS221 - Computer Science II](https://www.boisestate.edu/registrar-catalog/#/courses/SygWSzII98?bc=true&bcCurrent=CS221)
 
 []()
 
