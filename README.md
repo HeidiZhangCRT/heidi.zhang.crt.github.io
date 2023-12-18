@@ -61,6 +61,10 @@
 
 [ITM225 - Introduction to Programming](https://www.boisestate.edu/registrar-catalog/#/courses/rymez885U?bcCurrent=ITM225)
 
+[ITM106 - Database Topics](https://www.boisestate.edu/registrar-catalog/#/courses/rJeWjJ8IcI?bc=true&bcCurrent=ITM106)
+
+[ITM105 - Spreadsheet Topics](https://www.boisestate.edu/registrar-catalog/#/courses/BJZj1UL5L?bcCurrent=ITM105)
+
 
 ## Accounting
 
