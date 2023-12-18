@@ -49,6 +49,8 @@
 
 [ITM455 - Information Security](https://www.boisestate.edu/registrar-catalog/#/courses/HJuobL89L?bcCurrent=ITM455)
 
+[ITM435 - Project Management](https://www.boisestate.edu/registrar-catalog/#/courses/H1llp-889U?&bcCurrent=SCM435)
+
 [ITM430 - Predictive Analytics](https://www.boisestate.edu/registrar-catalog/#/courses/BJeUsX8LqU?bcCurrent=ITM430)
 
 [ITM340 - Big Data and Web Analytics](https://www.boisestate.edu/registrar-catalog/#/courses/BybIVLI5L?&bcCurrent=ITM340)
