@@ -24,10 +24,26 @@ Courses currently registered for Spring 408.
 [CS455 - Distributed Systems](https://www.boisestate.edu/registrar-catalog/#/courses/HyWBM8IcL?&bcCurrent=CS455)
 
 
-
 ## Mathematics/Statistics
 
+[MATH308 - Introduction to Algebraic Cryptology](https://www.boisestate.edu/registrar-catalog/#/courses/BklN6-UU9L?bcCurrent=MATH308)
+
+[MATH307 - Fundamentals of Security and Cryptography](https://www.boisestate.edu/registrar-catalog/#/courses/HkleaWLUqI?bcCurrent=MATH307)
+
+[MATH265 - Introduction to Programming in Mathematics](https://www.boisestate.edu/registrar-catalog/#/courses/rkxDNUU5I?true&bcCurrent=MATH265)
+
+[MATH189 - Discrete Mathematics](https://www.boisestate.edu/registrar-catalog/#/courses/Skgqe78L5I?bcCurrent=MATH189)
+
+[MATH160 - Survey of Calculus](https://www.boisestate.edu/registrar-catalog/#/courses/SyYGeUU98?bcCurrent=MATH160)
+
+[MATH149 - Precalculus](https://www.boisestate.edu/registrar-catalog/#/courses/HyIR7L8c8?bcCurrent=MATH149)
+
+
 ## Information Technology
+
+[]()
+
+[]()
 
 ## Accounting
 
