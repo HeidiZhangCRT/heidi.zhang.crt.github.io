@@ -68,6 +68,8 @@ BBA Accountancy
 
 ## Information Technology
 
+[ITM557 - Security Analytics](https://www.boisestate.edu/graduatecatalog/#/courses/SJuYCGYLv?bcCurrent=ITM557)
+
 [ITM556 - Information Security Management](https://www.boisestate.edu/graduatecatalog/#/courses/rypJhGYUw?bcCurrent=ITM556)
 
 [ITM460 - Cloud Computing](https://www.boisestate.edu/registrar-catalog/#/courses/rk8UN8I98?bcCurrent=ITM460)
