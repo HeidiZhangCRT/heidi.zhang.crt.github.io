@@ -81,3 +81,18 @@
 
 ## Busienss Related
 
+[BUS450 - Business Policies](https://www.boisestate.edu/registrar-catalog/#/courses/HkgisJULcI?bcCurrent=BUS450)
+
+[BUS305 - Law for Accountants](https://www.boisestate.edu/registrar-catalog/#/courses/BJsiyUUc8?bcCurrent=BUS305)
+
+[BUS202 - The Legal Environment of Business](https://www.boisestate.edu/registrar-catalog/#/courses/SksikLUcI?bcCurrent=BUS202)
+
+[FINAN303 - Principles of Finance](https://www.boisestate.edu/registrar-catalog/#/courses/SkeQayIU9L?bcCurrent=FINAN303)
+
+[ECON317 - International Economics](https://www.boisestate.edu/registrar-catalog/#/courses/B1-lnJLI5I?&bcCurrent=ECON317)
+
+[ECON202 - Principles of Microeconomics](https://www.boisestate.edu/registrar-catalog/#/courses/H1gh1L8qU?&bcCurrent=ECON202)
+
+[ECON201 - Principles of Macroeconomics](https://www.boisestate.edu/registrar-catalog/#/courses/BJlhy88cI?bcCurrent=ECON201)
+
+
