@@ -15,6 +15,7 @@
 [CS111 - Introduction to Programming](https://www.boisestate.edu/registrar-catalog/#/courses/SJHvXLL9I?bcCurrent=CS111)
 
 
+Courses currently registered for Spring 408.
 
 [CS408 - Full Stack Web Development](https://www.boisestate.edu/registrar-catalog/#/courses/B1pZ7LL9I?bcCurrent=CS408)
 
