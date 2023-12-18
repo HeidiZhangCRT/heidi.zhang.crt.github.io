@@ -18,6 +18,8 @@ BBA Accountancy
 
 ## Computer Science
 
+[CYBER500 - Introduction to Cybersecurity](https://www.boisestate.edu/graduatecatalog/#/courses/BJWmBSA8w?bcCurrent=CYBER500)
+
 [CS425 - Computer Networks](https://www.boisestate.edu/registrar-catalog/#/courses/S1i_f8I98?bcCurrent=CS425) (3) A
 
 [CS333 - Network Security and Defense](https://www.boisestate.edu/registrar-catalog/#/courses/SJ77QIUcI?bcCurrent=CS333)
@@ -64,6 +66,8 @@ BBA Accountancy
 
 
 ## Information Technology
+
+[ITM556 - Information Security Management](https://www.boisestate.edu/graduatecatalog/#/courses/rypJhGYUw?bcCurrent=ITM556)
 
 [ITM460 - Cloud Computing](https://www.boisestate.edu/registrar-catalog/#/courses/rk8UN8I98?bcCurrent=ITM460)
 
