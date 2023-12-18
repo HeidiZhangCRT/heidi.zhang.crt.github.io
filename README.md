@@ -2,7 +2,7 @@
 
 ## Computer Science
 
-## Mathematic/Statistics
+## Mathematics/Statistics
 
 ## Information Technology
 
